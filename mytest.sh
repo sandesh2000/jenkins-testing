@@ -1,4 +1,5 @@
 echo "this is test data"
 date
-cal
+echo "final testing"
+echo "ifconfig enp0s3"
 echo "bye"
